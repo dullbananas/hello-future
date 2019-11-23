@@ -29,3 +29,5 @@ In 2020, computer still don't know how to use floating numbers :D
 ## More (if internet is still a thing)
 - https://archiveprogram.github.com
 - https://en.wikipedia.org/wiki/Floating-point_arithmetic
+
+If these websites don't exist in your time, you can try accessing them with https://archive.org
